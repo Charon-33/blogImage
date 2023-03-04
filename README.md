@@ -9,7 +9,7 @@
 - 使用PigGo来上传（最好还是不用了，PigGo不能管理图片，也可能是我不太会用）
 - 在本地文件中使用Git来管理（可以来熟悉Git的命令）
 
->》》》Tip：
+>Tip：
 >
 >在仓库中查看图片 例子：https://gitee.com/charon-33/image/blob/master/git%E5%91%BD%E4%BB%A4.jpg
 >

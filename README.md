@@ -1,33 +1,25 @@
 # Image
 
-#### 介绍
+## 介绍
+
 图床
 
-#### 软件架构
-软件架构说明
+## 使用
 
+- 使用PigGo来上传（最好还是不用了，PigGo不能管理图片，也可能是我不太会用）
+- 在本地文件中使用Git来管理（可以来熟悉Git的命令）
 
-#### 安装教程
+>》》》Tip：
+>
+>在仓库中查看图片 例子：https://gitee.com/charon-33/image/blob/master/git%E5%91%BD%E4%BB%A4.jpg
+>
+>真正引用图片 例子：https://gitee.com/charon-33/image/raw/master/git%E5%91%BD%E4%BB%A4.jpg
+>
+>（就是把链接中的`blob`改为`raw`）
+>
+>Markdown中插入网络图片的例子 `![网页引用](https://gitee.com/charon-33/image/raw/master/git%E5%91%BD%E4%BB%A4.jpg)`
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
+## 特技
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)

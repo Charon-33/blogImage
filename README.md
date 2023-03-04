@@ -19,6 +19,8 @@
 >
 >Markdown中插入网络图片的例子 `![网页引用](https://gitee.com/charon-33/image/raw/master/git%E5%91%BD%E4%BB%A4.jpg)`
 
+> <font color='orange'>有一个问题：当文件被人修改且提交后，另一个人也同时用原来的数据作更改，但晚提交了，这时如何解决冲突？</font>
+
 ## 特技
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
